@@ -1,0 +1,183 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+h1,h2,h3,h4,h5,h6,a,p,ul,li{
+    margin: 0px;
+    padding: 0px;
+}
+#logo-menu{
+    height: 75px;
+}
+
+.logo h2{
+    float: left;
+    margin-left: 115px;
+    font-size:60px ;
+    float: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu nav {
+    float: left;
+    margin-left: 550px;
+    margin-top:25px;
+}
+.menu nav ul li {
+    list-style: none;
+    display: inline;
+    margin:20px;
+}
+.menu nav ul li a{
+    text-decoration: none;
+}
+.list-style{
+    background:rgb(4,192,160);
+    padding: 10px;
+}
+.list-style a{
+    color: white;
+    font-size: 19px;
+    padding: 14px;
+}
+.content{
+    float: left;
+    margin-left: 120px;
+    margin-top: 38px;
+}
+.content h3{
+    margin-top: 60px;
+    font-size: 50px;
+    word-spacing: 6px;
+    text-transform: capitalize;
+}
+.content p{
+    margin-top: 20px;
+    color: rgb(150, 135, 135);
+}
+.content ul{
+    margin-top: 30px;
+    float: left;
+}
+.content ul li {
+    list-style: none;
+    display: inline;
+    
+}
+.list-style-2 {
+    background-color: rgb(4,192, 160);
+    padding: 16px
+    
+}
+.list-style-2 a{
+    color: white;
+    padding: 22px;
+}
+.list-style-3 a{
+     margin-left: 15px;
+    color: rgb(90,213, 192);
+    font-size:18px;
+    
+}
+.content ul li a{
+    text-decoration: none;
+}
+.image {
+    margin-top: 15px;
+    margin-left: 55.3%;
+}
+#main-Subject{
+    background:rgb(230, 239, 265);
+    height: 680px;
+    margin: 50px;
+}
+.our-survices {
+    margin-top:50px ;
+    padding: 55px;
+}
+.our-survices h5{
+    color: rgb(17, 230, 17);
+    font-size: 16px;
+}
+.our-survices h4{
+    font-size:24px;
+}
+.our-survices p{
+    margin-top: 17px;
+    color: rgb(165, 152, 152);
+}
+.box{
+    
+    float: left;
+    margin: 30px;
+    background-color: white;
+    padding: 30px;
+    height: 180px;
+    width: 170px;
+}
+.box h6{
+    font-size: 19px;
+    text-transform: capitalize;
+}
+.box-2{
+    float: left;
+    margin: 15px;
+    background-color: white;
+    padding:30px;
+    height: 180px;
+    width: 170px;
+    margin-top: 30px;
+}
+.box-2 h6{
+    font-size:30px ;
+    margin-left: 66px;
+    margin-top: 20px;
+    color: rgb(134, 219, 204);
+}
+.box-2 p{
+     margin-left: 35px;
+     color: rgb(98, 179, 164);
+}  
+.why-hire-cservice{
+    margin-top:248px;
+    margin-left: 70px;
+    
+}
+.why-hire-cservice h4{
+    font-size: 39px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.load{
+    float: left;
+    margin: 10px;
+    background-color: rgb(230, 96, 96);
+    padding: 19px;
+    border-radius: 80%;
+    margin-left: 160px;
+    margin-top: 100px;
+}
+.load h6{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: serif;
+}
+.load-side-p-1{
+    float: left;
+    margin-top: 105px;
+}
+.load-side-p-2{
+    float: left;
+    margin-top: 105px;
+    
+}
+.load-side-p-3{
+    float:left;
+    margin-top:105px;
+    
+}
+.load-background{
+    margin: 40px;
+    height:180px;
+    background-color:rgb(255,255, 255);
+}
